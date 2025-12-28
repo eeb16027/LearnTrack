@@ -1,0 +1,10 @@
+## Java Setup
+
+JDK Version Used: Java 17
+
+Steps:
+1. Install JDK from oracle.com or openjdk.org
+2. Set JAVA_HOME
+3. Verify installation:
+   java -version
+   javac -version

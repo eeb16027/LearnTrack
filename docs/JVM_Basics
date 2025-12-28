@@ -1,0 +1,16 @@
+## JVM Basics
+
+JDK (Java Development Kit):
+Used for developing Java applications. It contains compiler (javac), JRE, and tools.
+
+JRE (Java Runtime Environment):
+Used to run Java programs. It contains JVM and core libraries.
+
+JVM (Java Virtual Machine):
+Executes Java bytecode and makes Java platform-independent.
+
+Bytecode:
+Intermediate code generated after compilation. JVM converts it into machine code.
+
+Write Once, Run Anywhere:
+Java code compiles to bytecode, which can run on any system having a JVM.
